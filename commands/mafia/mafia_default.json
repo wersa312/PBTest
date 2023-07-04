@@ -1,0 +1,49 @@
+{
+    "users": {},
+    "dead": {},
+    "votes": {
+        "mafia": {
+            "don": null,
+            "mafias": {}
+        },
+        "com": {
+            "id": null,
+            "com_id": null,
+            "check": null
+        },
+        "doc": {
+            "id": null,
+            "doc_id": null
+        },
+        "putana": {
+            "id": null,
+            "putana_id": null
+        }
+    },
+    "dochealed": false,
+    "lastTimeVoted": {
+        "doc": null,
+        "putana": null
+    },
+    "linchvote": {},
+    "votetokill": {
+        "id": null,
+        "msg_id": null,
+        "votes": {},
+        "kill": {
+            "yes": 0,
+            "no": 0
+        }
+    },
+    "settings": {
+        "timeout": {
+            "startgame": 2,
+            "day": 1,
+            "night": 1,
+            "vote": 1
+        }
+    },
+    "mafias": [],
+    "started": false,
+    "phase": "start"
+}

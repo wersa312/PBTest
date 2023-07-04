@@ -1,0 +1,52 @@
+[
+    {
+        "price": 1000000,
+        "name": "🚣 Плот",
+        "type": "$"
+    },
+    {
+        "price": 5000000,
+        "name": "🚣 Лодка рыбака",
+        "type": "$"
+    },
+    {
+        "price": 15000000,
+        "name": "🛥 Катер",
+        "type": "$"
+    },
+    {
+        "price": 30000000,
+        "name": "⛴ Яхта Eclipse",
+        "type": "$"
+    },
+    {
+        "price": 50000000,
+        "name": "⛴ Яхта Lady Moura",
+        "type": "$"
+    },
+    {
+        "price": 80000000,
+        "name": "⛴ Яхта Samoon",
+        "type": "$"
+    },
+    {
+        "price": 100000000,
+        "name": "⛴ Яхта Palladium",
+        "type": "$"
+    },
+    {
+        "price": 500,
+        "name": "🚢 Золотая Яхта Slice of life",
+        "type": "gold"
+    },
+    {
+        "price": 5000,
+        "name": "🚢 Золотая Яхта Quantum Blue",
+        "type": "gold"
+    },
+    {
+        "price": 10000,
+        "name": "⚡ Яхта Galactica Super Nova",
+        "type": "gold"
+    }
+]

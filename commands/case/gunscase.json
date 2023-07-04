@@ -1,0 +1,576 @@
+{
+    "case_items": [
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "SSG 08",
+            "type": "snipe",
+            "damage": 88,
+            "max_patrons": 10
+        },
+        {
+            "name": "G3SG1",
+            "type": "snipe",
+            "damage": 80,
+            "max_patrons": 20
+        },
+        {
+            "name": "SCAR-20",
+            "type": "snipe",
+            "damage": 80,
+            "max_patrons": 20
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "Galil AR",
+            "type": "automatic",
+            "damage": 30,
+            "max_patrons": 20
+        },
+        {
+            "name": "FAMAS",
+            "type": "automatic",
+            "damage": 30,
+            "max_patrons": 25
+        },
+        {
+            "name": "AUG",
+            "type": "automatic",
+            "damage": 28,
+            "max_patrons": 30
+        },
+        {
+            "name": "SG 553",
+            "type": "automatic",
+            "damage": 30,
+            "max_patrons": 30
+        },
+        {
+            "name": "Glock-18",
+            "type": "pistol",
+            "damage": 28,
+            "max_patrons": 20
+        },
+        {
+            "name": "USP-S",
+            "type": "pistol",
+            "damage": 35,
+            "max_patrons": 12
+        },
+        {
+            "name": "P2000",
+            "type": "pistol",
+            "damage": 35,
+            "max_patrons": 13
+        },
+        {
+            "name": "CZ75-Auto",
+            "type": "pistol",
+            "damage": 33,
+            "max_patrons": 10
+        },
+        {
+            "name": "Desert Eagle",
+            "type": "pistol",
+            "damage": 73,
+            "max_patrons": 10
+        },
+        {
+            "name": "Dual Berettas",
+            "type": "pistol",
+            "damage": 38,
+            "max_patrons": 30
+        },
+        {
+            "name": "Five-SeveN",
+            "type": "pistol",
+            "damage": 32,
+            "max_patrons": 20
+        },
+        {
+            "name": "P250",
+            "type": "pistol",
+            "damage": 35,
+            "max_patrons": 13
+        },
+        {
+            "name": "Tec-9",
+            "type": "pistol",
+            "damage": 33,
+            "max_patrons": 18
+        },
+        {
+            "name": "MAC-10",
+            "type": "pistol_automatic",
+            "damage": 29,
+            "max_patrons": 30
+        },
+        {
+            "name": "MP7",
+            "type": "pistol_automatic",
+            "damage": 29,
+            "max_patrons": 30
+        },
+        {
+            "name": "MP9",
+            "type": "pistol_automatic",
+            "damage": 26,
+            "max_patrons": 30
+        },
+        {
+            "name": "P90",
+            "type": "pistol_automatic",
+            "damage": 26,
+            "max_patrons": 50
+        },
+        {
+            "name": "PP-Bizon",
+            "type": "pistol_automatic",
+            "damage": 27,
+            "max_patrons": 64
+        },
+        {
+            "name": "UMP-45",
+            "type": "pistol_automatic",
+            "damage": 35,
+            "max_patrons": 25
+        },
+        {
+            "name": "Nova",
+            "type": "shotgun",
+            "damage": 234,
+            "max_patrons": 8
+        },
+        {
+            "name": "XM1014",
+            "type": "shotgun",
+            "damage": 120,
+            "max_patrons": 7
+        },
+        {
+            "name": "MAG7",
+            "type": "shotgun",
+            "damage": 240,
+            "max_patrons": 5
+        },
+        {
+            "name": "Sawed-Off",
+            "type": "shotgun",
+            "damage": 256,
+            "max_patrons": 7
+        },
+        {
+            "name": "M249",
+            "type": "machine_gun",
+            "damage": 32,
+            "max_patrons": 100
+        },
+        {
+            "name": "Negev",
+            "type": "machine_gun",
+            "damage": 35,
+            "max_patrons": 150
+        },
+        {
+            "name": "SSG 08",
+            "type": "snipe",
+            "damage": 88,
+            "max_patrons": 10
+        },
+        {
+            "name": "G3SG1",
+            "type": "snipe",
+            "damage": 80,
+            "max_patrons": 20
+        },
+        {
+            "name": "SCAR-20",
+            "type": "snipe",
+            "damage": 80,
+            "max_patrons": 20
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "Galil AR",
+            "type": "automatic",
+            "damage": 30,
+            "max_patrons": 20
+        },
+        {
+            "name": "FAMAS",
+            "type": "automatic",
+            "damage": 30,
+            "max_patrons": 25
+        },
+        {
+            "name": "AUG",
+            "type": "automatic",
+            "damage": 28,
+            "max_patrons": 30
+        },
+        {
+            "name": "SG 553",
+            "type": "automatic",
+            "damage": 30,
+            "max_patrons": 30
+        },
+        {
+            "name": "Glock-18",
+            "type": "pistol",
+            "damage": 28,
+            "max_patrons": 20
+        },
+        {
+            "name": "USP-S",
+            "type": "pistol",
+            "damage": 35,
+            "max_patrons": 12
+        },
+        {
+            "name": "P2000",
+            "type": "pistol",
+            "damage": 35,
+            "max_patrons": 13
+        },
+        {
+            "name": "CZ75-Auto",
+            "type": "pistol",
+            "damage": 33,
+            "max_patrons": 10
+        },
+        {
+            "name": "Desert Eagle",
+            "type": "pistol",
+            "damage": 73,
+            "max_patrons": 10
+        },
+        {
+            "name": "Dual Berettas",
+            "type": "pistol",
+            "damage": 38,
+            "max_patrons": 30
+        },
+        {
+            "name": "Five-SeveN",
+            "type": "pistol",
+            "damage": 32,
+            "max_patrons": 20
+        },
+        {
+            "name": "P250",
+            "type": "pistol",
+            "damage": 35,
+            "max_patrons": 13
+        },
+        {
+            "name": "Tec-9",
+            "type": "pistol",
+            "damage": 33,
+            "max_patrons": 18
+        },
+        {
+            "name": "MAC-10",
+            "type": "pistol_automatic",
+            "damage": 29,
+            "max_patrons": 30
+        },
+        {
+            "name": "MP7",
+            "type": "pistol_automatic",
+            "damage": 29,
+            "max_patrons": 30
+        },
+        {
+            "name": "MP9",
+            "type": "pistol_automatic",
+            "damage": 26,
+            "max_patrons": 30
+        },
+        {
+            "name": "P90",
+            "type": "pistol_automatic",
+            "damage": 26,
+            "max_patrons": 50
+        },
+        {
+            "name": "PP-Bizon",
+            "type": "pistol_automatic",
+            "damage": 27,
+            "max_patrons": 64
+        },
+        {
+            "name": "UMP-45",
+            "type": "pistol_automatic",
+            "damage": 35,
+            "max_patrons": 25
+        },
+        {
+            "name": "Nova",
+            "type": "shotgun",
+            "damage": 234,
+            "max_patrons": 8
+        },
+        {
+            "name": "XM1014",
+            "type": "shotgun",
+            "damage": 120,
+            "max_patrons": 7
+        },
+        {
+            "name": "MAG7",
+            "type": "shotgun",
+            "damage": 240,
+            "max_patrons": 5
+        },
+        {
+            "name": "Sawed-Off",
+            "type": "shotgun",
+            "damage": 256,
+            "max_patrons": 7
+        },
+        {
+            "name": "M249",
+            "type": "machine_gun",
+            "damage": 32,
+            "max_patrons": 100
+        },
+        {
+            "name": "Negev",
+            "type": "machine_gun",
+            "damage": 35,
+            "max_patrons": 150
+        }
+    ],
+    "vipcase": [
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "GOLDEN AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "GOLDEN DEAGLE",
+            "type": "pistol",
+            "damage": 70,
+            "max_patrons": 7
+        },
+        {
+            "name": "LEGENDARY AWP",
+            "type": "snipe",
+            "damage": 200,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AWP",
+            "type": "snipe",
+            "damage": 115,
+            "max_patrons": 10
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        },
+        {
+            "name": "AK-47",
+            "type": "automatic",
+            "damage": 36,
+            "max_patrons": 30
+        },
+        {
+            "name": "M4A1-S",
+            "type": "automatic",
+            "damage": 35,
+            "max_patrons": 20
+        },
+        {
+            "name": "M4A4",
+            "type": "automatic",
+            "damage": 33,
+            "max_patrons": 30
+        }
+    ]
+}
